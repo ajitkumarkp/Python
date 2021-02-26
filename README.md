@@ -1,2 +1,2 @@
 # Python3
-Projects from coursera's python programming specialization-https://www.coursera.org/specializations/python-3-programming
+Projects from Python programming specialization-https://www.coursera.org/specializations/python-3-programming
